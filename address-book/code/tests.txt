@@ -1,0 +1,6 @@
+* list mit Parameter
+* Add ohne Parameter
+* Add mit nur einem oder 2 Parameter
+* add mit falschem ersten Parameter 
+* Memory Leaks
+
